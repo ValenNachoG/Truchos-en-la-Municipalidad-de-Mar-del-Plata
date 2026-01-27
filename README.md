@@ -1,3 +1,70 @@
+Nuevamente el corrupto e inepto del Ingeniero Dranuta  volvió a quedar bajo la lupa tras la apertura de un concurso interno para cubrir un cargo de planta permanente, un proceso que se da luego de una serie de incorporaciones directas al área que dirige que no pasaron por ningún concurso público como debiera ser.
+
+El llamado impulsado por este personaje y que se puede ver en la propia página de la municipalidad https://www.mardelplata.gob.ar/documentos/legal_tecnica_y_hacienda/circular%20891.pdf, es restringido exclusivamente a personal ya vinculado al municipio, presenta plazos inusualmente breves, requisitos mínimos y formulaciones ambiguas que, según fuentes internas, habilitan una amplia discrecionalidad en la evaluación de los postulantes. A esto se suma un temario calificado como “excesivamente específico” y un esquema de puntaje en el que la entrevista personal tiene un peso muy superior al de los conocimientos técnicos.
+
+“En los papeles parece ordenado, pero el resultado se define en la entrevista”, señaló un empleado municipal que pidió reserva de identidad. “Los requisitos los cumple cualquiera y el resto se acomoda después”.
+
+El concurso se produce en un contexto particularmente sensible: en los últimos meses, la Municipalidad incorporó a planta permanente a varios empleados sin concurso alguno, mediante designaciones directas. Entre ellos figuran personas que hasta poco tiempo antes se desempeñaban en empresas privadas contratistas del propio municipio como es el caso la ex Adromeda, empresa cual se llevó gran parte de los 1.000.000.000 de pesos que el municipio contrato en desarrollo de software y que a todas luces se ve que no hay resultados.
+
+Mientras tanto, el concurso avanza. Si no hay impugnaciones, más temprano que tarde el cargo quedará cubierto. Para algunos, se trata de un manejo administrativo. Para otros, del cierre prolijo de una maniobra ruin  que comenzó mucho antes con el fin de un vaciamiento del área y el desplazamiento de los empleados que ven con recelo la corrupción que se sucede en su entorno.
+
+Actualmente se encuentra en trámite otro concurso, de carácter profundamente controvertido. Se trata de la cobertura de un cargo que, en los hechos, habría sido indebidamente apropiado por este inmoral, causando un grave perjuicio tanto a la vida personal como al buen nombre de una persona íntegra y honesta que era quien lo ostentaba . Nos encontramos, una vez más, ante un proceso que aparenta estar completamente viciado y deliberadamente manipulado.
+
+Resulta imprescindible tener presentes los nombres de Leonardo Andresen y José García. El primero se ha desempeñado de manera sostenida como ejecutor fiel de directivas superiores, mientras que el segundo ha actuado reiteradamente como subordinado acrítico de cuantas órdenes le fueran impartidas, tanto en el ámbito municipal como en las tareas encomendadas para la Fundación 360, demás esta decir que dentro del horario laboral municipal.
+
+Ambos aparecen fuertemente señalados como los candidatos previamente definidos para la cobertura de dichos cargos. Asimismo, corresponde dirigir la atención hacia la totalidad de los denominados jurados, quienes, ya sea por acción directa o por una omisión deliberada, habrían incurrido en una conducta de abierta complicidad, encubriendo y avalando un proceder que resulta manifiestamente inadmisible
+Como siempre les dejo todos los detalles de las trastadas de este corrupto e inoperante en esta web https://github.com/ValenNachoG/Truchos-en-la-Municipalidad-de-Mar-del-Plata
+
+Valentino Gavari
+Un Marplatense de bien
+
+
+
+
+
+
+
+En un revelador informe, se expone la gestión opaca y presuntamente corrupta del funcionario municipal el impresentable Dranuta. Las investigaciones revelan que las licitaciones públicas están diseñadas para favorecer a las mismas empresas, presentando requisitos ambiguos que limitan la competencia y perpetúan un círculo vicioso de favoritismo. Además, se documenta la compra directa de equipos tecnológicos a precios inflados, lo cual no solo compromete el erario público, sino que también pone en entredicho la integridad del funcionario.
+
+Testimonios anónimos de empleados municipales confirman que estas prácticas no solo son habituales, sino que también generan un ambiente de desconfianza y opacidad. Comparaciones con otros municipios evidencian que la gestión en cuestión se encuentra entre las peores, lo que refuerza la urgencia de una intervención.
+
+La comunidad exige transparencia y rendición de cuentas, y se espera que se tomen medidas enérgicas para depurar estas prácticas. La ineptitud y la corrupción no tienen cabida en la administración pública.
+
+Además del archivo adjunto que les envío, acá les dejo parte de mi investigación https://github.com/ValenNachoG/Truchos-en-la-Municipalidad-de-Mar-del-Plata
+
+Medios locales haciéndose eco del descarado robo https://www.lateclamardelplata.com.ar/60579-nube-sobre-la-crisis-el-municipio-busca-un-salvavidas-digital , https://www.lateclamardelplata.com.ar/60869-prorroga-millonaria-y-el-riesgo-de-un-sistema-informatico-anclado-en-el-pasado 
+
+Valentino Gavari
+Un Marplatense de bien.
+
+
+
+
+Una vez más, la administración encabezada por Dranuta deja en evidencia su alarmante nivel de inoperancia. Durante casi una semana, la municipalidad permaneció paralizada, sin brindar servicios esenciales a la comunidad, reflejo de una gestión marcada por la falta de planificación y liderazgo.
+
+A pesar de esta inactividad institucional, los recursos públicos continúan siendo utilizados de manera cuestionable, beneficiando a allegados y colaboradores cercanos al funcionario. La opacidad en el manejo de fondos y la persistente ausencia de resultados concretos refuerzan la percepción de una gestión más preocupada por sostener privilegios que por atender las necesidades de los ciudadanos.
+
+Valentino Gavari
+Un marplatense de bien!
+
+
+
+  Nuevas filtraciones ponen nuevamente en el centro de la polémica a este personaje. Todo lo que toca parece tener un trasfondo de interés económico o algún tipo de beneficio personal.
+
+    En esta ocasión, hemos accedido a una muestra de los datos extraídos directamente de la base de pacientes del programa de salud municipal, que evidenciaría la venta de información sensible a una empresa de renombre en el ámbito sanitario. Dicha firma, curiosamente, realizó una demostración en las instalaciones del propio CEMA donde fue criticada por falta de datos relacionados con gestiones estatales, quienes me lo soliciten les enviaré el dump completo.
+
+    No se trata de un hecho aislado. En el pasado ya se registraron otras filtraciones dentro del sistema de salud, incluyendo listados de personas y turnos médicos, así como formularios con datos personales, documentos y hasta números de tarjetas de crédito de quienes habían adherido a la modalidad de boleta digital.
+
+    En síntesis, el cuadro es claro: un accionar sistemático y delictivo, impropio de quien debería resguardar la información y la confianza pública.
+
+    En este enlace podrán encontrar toda la información oportunamente recopilada GitHub - ValenNachoG/Truchos-en-la-Municipalidad-de-Mar-del-Plata. 
+
+Valentino Gavari
+Un Marplatense de Bien.
+
+
+
+
 
 Sigue llegando información de los delincuentes de Piduti,  Dranuta y Vatimo.
 Dos joyitas imperdibles de estos delincuentes, verán como agrandan el estado creando cada vez mas ravioles a la estructura ya enorme de la municipalidad acá les dejo un ejemplo.
